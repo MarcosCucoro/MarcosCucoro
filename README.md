@@ -1,8 +1,12 @@
 ### Olá!! Eu sou Marcos Cucoro 👋
 
+##
+
 - 🔭 Hoje trabalho como Desenvolvedor Full Stack
 - 🌱 Estudando Python
 - ⚡ Fato engraçado: Sou formado em Engenharia Civil e em 2022 fiz a migração de área para Tecnologia.
+
+##
 
 <div align="center">
   <a href="https://github.com/MarcosCucoro">
