@@ -19,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCucoro&layout=compact&theme=dark"/>
 </div>
     
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,11 +28,17 @@
   
  ##
   
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/marcoscucoro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-cucoro-15b23a95" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-![Snake animation](https://github.com/MarcosCucoro/MarcosCucoro/blob/output/github-contribution-grid-snake.svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro&center)
+<p align="center">
+    <a href="https://github.com/MarcosCucoro/MarcosCucoro/blob/output/github-contribution-grid-snake.svg">
+      <img alt="" src="https://github.com/MarcosCucoro/MarcosCucoro/blob/output/github-contribution-grid-snake.svg" />
+    </a>
+
+<p align="center">
+    <a href="https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro">
+      <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro" />
+    </a>
