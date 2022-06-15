@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/MarcosCucoro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosCucoro&show_icons=true&theme=dark&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCucoro&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCucoro&layout=compact&langs_count=10&theme=dark"/>
 </div>
     
 <div align="center" style="display: flex"><br>
