@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/MarcosCucoro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosCucoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosCucoro&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosCucoro&layout=compact&theme=dark"/>
 </div>
     
@@ -34,5 +34,5 @@
 </div>
   
 ![Snake animation](https://github.com/MarcosCucoro/MarcosCucoro/blob/output/github-contribution-grid-snake.svg)
-  
-![](https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro)
+
+![](https://visitor-badge.glitch.me/badge?page_id=MarcosCucoro.MarcosCucoro&center)
