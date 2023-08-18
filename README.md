@@ -3,7 +3,7 @@
 
 ##
 
-- 🔭 Hoje trabalho como Desenvolvedor Front-end
+- 🔭 Desenvolvedor Front-end
 - 🌱 Estudando Front-end (HTML, CSS, JavaScript, React, TypeScript, NextJs)
 - ⚡ Fato engraçado: Sou formado em Engenharia Civil e em 2022 fiz a migração de área para Tecnologia.
 
